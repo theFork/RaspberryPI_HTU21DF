@@ -5,7 +5,7 @@ https://www.adafruit.com/product/1899
 
 This driver requires the pigpio library, available at http://abyz.co.uk/rpi/pigpio/index.html
 
-To install this library please navagate to its folder and sudo python HTU21DF.py install
+To install this library please navigate to its folder and sudo python HTU21DF.py install
 
 I wanted to use this sensor in a project with a Raspberry Pi but I only found drivers written in C, so I wrote my own.
 
